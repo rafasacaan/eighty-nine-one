@@ -1,2 +1,2 @@
 # eighty-nine-one
-Collection of self-made 8-bit images.
+Collection of hand-made 8-bit images. 
